@@ -11,4 +11,8 @@
  - Explicación proyecto LocalReporter.
  - Explicación generación de gateway y microservicio para LocalReporter.
  - Empezar curso TypeScript en Udemy.
+
+ # 03/09
+ - Instalación de VSCode y de Next.js para trabajar en el proyecto LocalReporter.
+ - Visionado de las secciones 2 y 3 del curso de TypeScript de Udemy.
  
