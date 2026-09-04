@@ -15,4 +15,7 @@
  # 03/09
  - Instalación de VSCode y de Next.js para trabajar en el proyecto LocalReporter.
  - Visionado de las secciones 2 y 3 del curso de TypeScript de Udemy.
+
+ # 04/09
+ - Participación en la migración de las webs de LocalReporter y Aranova.cloud aprendiendo como funciona el proceso entero.
  
