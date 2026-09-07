@@ -18,4 +18,8 @@
 
  # 04/09
  - Participación en la migración de las webs de LocalReporter y Aranova.cloud aprendiendo como funciona el proceso entero.
+
+ # 07/09
+ - Visionado de las secciones 4, 5, 6, 7, 8 y 9 del curso de TypeScript de Udemy
+ - Instalación del repositorio de React Native de LocalReporter
  
