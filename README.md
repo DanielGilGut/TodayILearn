@@ -22,4 +22,8 @@
  # 07/09
  - Visionado de las secciones 4, 5, 6, 7, 8 y 9 del curso de TypeScript de Udemy
  - Instalación del repositorio de React Native de LocalReporter
+
+ # 08/09
+ - Finalización del curso de TypeScript de Udemy.
+ - Creación de la pantalla Home del proyecto LocalReporter, generando cuatro pantallas en un stack accesibles con sus botones correspondientes y su navegación. Falta aplicar correctamente los temas y estilos visuales.
  
