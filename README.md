@@ -26,4 +26,9 @@
  # 08/09
  - Finalización del curso de TypeScript de Udemy.
  - Creación de la pantalla Home del proyecto LocalReporter, generando cuatro pantallas en un stack accesibles con sus botones correspondientes y su navegación. Falta aplicar correctamente los temas y estilos visuales.
+
+ # 09/09
+ - Update de la pantalla Home de LocalReporter
+ - Generar pantalla de Bienvenida con botones para futuras pantallas Login y Register
+ - Aprender a usar Postman para probar la API del backend.
  
