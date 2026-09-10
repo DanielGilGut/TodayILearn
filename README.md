@@ -31,4 +31,8 @@
  - Update de la pantalla Home de LocalReporter
  - Generar pantalla de Bienvenida con botones para futuras pantallas Login y Register
  - Aprender a usar Postman para probar la API del backend.
+
+ # 10/10
+ - Update de la pantalla de Register
+ - Creación de un pre-build para añadir futuros SDKs
  
