@@ -35,4 +35,13 @@
  # 10/10
  - Update de la pantalla de Register
  - Creación de un pre-build para añadir futuros SDKs
+
+ # 14/10
+ - Update de la pantalla Welcome y de Register
+ - Creación de los mocks de las pantallas de la app
+
+ # 15/10
+ - Implementación de la autenticación de Google con Firebase en la app
+ - Implementación de la autenticación de Facebook con Firebase en la app (WIP)
+
  
