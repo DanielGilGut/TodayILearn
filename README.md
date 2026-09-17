@@ -42,6 +42,17 @@
 
  # 15/10
  - Implementación de la autenticación de Google con Firebase en la app
+ - Creación de mocks reales con Stitch
  - Implementación de la autenticación de Facebook con Firebase en la app (WIP)
+
+ # 16/10
+ - Terminar la implentación de Facebook Auth
+ - Atender explicación sobre refactorización y buenas prácticas en el desarrollo
+ - Refactorizar los temas y estilos de la app basado en el design.md
+
+ # 17/10
+ - Refactorización de componentes e iconos de la app
+ - Rediseño e implementación de la nueva pantalla index
+ - Creación de varios componentes reutilizables de la UI (Cards, videoplayer, buttons...)
 
  
