@@ -32,27 +32,34 @@
  - Generar pantalla de Bienvenida con botones para futuras pantallas Login y Register
  - Aprender a usar Postman para probar la API del backend.
 
- # 10/10
+ # 10/09
  - Update de la pantalla de Register
  - Creación de un pre-build para añadir futuros SDKs
 
- # 14/10
+ # 14/09
  - Update de la pantalla Welcome y de Register
  - Creación de los mocks de las pantallas de la app
 
- # 15/10
+ # 15/09
  - Implementación de la autenticación de Google con Firebase en la app
  - Creación de mocks reales con Stitch
  - Implementación de la autenticación de Facebook con Firebase en la app (WIP)
 
- # 16/10
+ # 16/09
  - Terminar la implentación de Facebook Auth
  - Atender explicación sobre refactorización y buenas prácticas en el desarrollo
  - Refactorizar los temas y estilos de la app basado en el design.md
 
- # 17/10
+ # 17/09
  - Refactorización de componentes e iconos de la app
  - Rediseño e implementación de la nueva pantalla index
  - Creación de varios componentes reutilizables de la UI (Cards, videoplayer, buttons...)
 
- 
+ # 18/09
+ - Creación de componentes de carrusel y listado de contenidos
+ - Generación de 
+
+ # 21/09
+ - Cambios en el diseño para cumplir estandares de stores
+ - Generación de una android preview build .aab con EAS.
+ - Generación de una iOS preview build .ipa con EAS.
