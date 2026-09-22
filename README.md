@@ -63,3 +63,6 @@
  - Cambios en el diseño para cumplir estandares de stores
  - Generación de una android preview build .aab con EAS.
  - Generación de una iOS preview build .ipa con EAS.
+
+ # 22/09
+ - Reparación de crasheos en la build de iOS.
