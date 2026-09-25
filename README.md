@@ -36,6 +36,9 @@
  - Update de la pantalla de Register
  - Creación de un pre-build para añadir futuros SDKs
 
+ # 11/09
+ ## Festivo: Diada de Catalunya
+
  # 14/09
  - Update de la pantalla Welcome y de Register
  - Creación de los mocks de las pantallas de la app
@@ -66,3 +69,13 @@
 
  # 22/09
  - Reparación de crasheos en la build de iOS.
+
+ # 23/09
+ - Resolución de errores build eas
+
+ # 24/09
+ ## Festivo: La Mercè
+
+ # 25/09
+ - Solucionado los problemas de build de IOS.
+ - Organizar estructura de llamadas en la api
