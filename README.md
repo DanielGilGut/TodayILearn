@@ -79,3 +79,7 @@
  # 25/09
  - Solucionado los problemas de build de IOS.
  - Organizar estructura de llamadas en la api
+
+ # 28/09
+ - Actualizar pantallas de acceso y registro
+ - Transicionar la BBDD de desarrollo a producción
