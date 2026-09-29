@@ -81,5 +81,12 @@
  - Organizar estructura de llamadas en la api
 
  # 28/09
- - Actualizar pantallas de acceso y registro
- - Transicionar la BBDD de desarrollo a producción
+ - Actualizar pantallas de access y register
+ - Migrar la BBDD de desarrollo a producción
+
+ # 29/09
+ - Terminar la migración de la BBDD
+ - Terminar pantallas de access y register con
+   la integración de firestore usando endpoints
+ - Persistencia del usuario al cerrar y abrir la aplicación
+ - (WIP) Añadir libreria SWR
