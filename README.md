@@ -90,3 +90,7 @@
    la integración de firestore usando endpoints
  - Persistencia del usuario al cerrar y abrir la aplicación
  - (WIP) Añadir libreria SWR
+
+ # 30/09
+ - Terminar de implementar SWR y refactorizar el código
+ - Optimizar el proceso de login y signup
