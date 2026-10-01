@@ -94,3 +94,7 @@
  # 30/09
  - Terminar de implementar SWR y refactorizar el código
  - Optimizar el proceso de login y signup
+
+ # 01/10
+ - Implementación completa de la API en el frontend
+ - Rediseño de la pantalla home
